@@ -30,6 +30,6 @@ ADD:
 		<file name="Zeds.xml" type="types" />	
 	</ce>
 	
-Under: </defaults>
+Under the defaults section of your cfgeconomycore.xml
 
 Then add the Types folder to your MP Mission root.
