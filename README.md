@@ -14,6 +14,7 @@ ADD:
 		<file name="Footwear.xml" type="types" />
 		<file name="Hand_Weapons.xml" type="types" />
 		<file name="Head_Handwear.xml" type="types" />
+		<file name="Historical.xml" type="types" />
 		<file name="Medical_and_Fire.xml" type="types" />
 		<file name="Military_Clothing.xml" type="types" />
 		<file name="Military_Equipment.xml" type="types" />
